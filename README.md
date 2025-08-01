@@ -12,9 +12,10 @@ A powerful and intuitive language translator application built with Flutter. Thi
 
 ## 📸 App Demo
 
-*(To create this GIF, record your screen while using the app and save it as `demo.gif` in the root of this project)*
+<p align="center">
+  <img src="language_translator_app.gif" width="400" alt="Translator App Demo">
+</p>
 
-![App Demo GIF](demo.gif)
 
 ---
 
